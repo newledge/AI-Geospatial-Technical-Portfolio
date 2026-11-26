@@ -22,18 +22,10 @@ flowchart TD
 
 The diagram summarizes a research design; it is not a verified trace of the exact high-scoring submission. Development explored local small-language-model inference and deterministic processing of tabular, document and geospatial sources. No competition implementation or test content is included here.
 
-## Reported competition outcome
+## Competition Status
 
-| Item | Value |
-| --- | --- |
-| Competition | GenAI for Good Challenge: Cities Edition 2026 |
-| Platform | Zindi |
-| Public score | 0.922826003 |
-| Submission identifier | gB79oiHv |
-| Submission date | 26 November 2026 |
-| Reported public rank | 15th (historical snapshot) |
+This research is associated with an ongoing international AI challenge. Detailed competition results, implementation code, and evaluation records will be disclosed after the competition concludes, subject to the official competition rules.
 
-The score and rank are participant-reported public leaderboard observations. They are not a claim of final placement, exact-answer accuracy, code-audit approval or independent reproducibility. [Competition page](https://zindi.world/competitions/GenAI-for-Good-Challenge).
 
 ## Relevance to Skopje
 
