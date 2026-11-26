@@ -4,7 +4,7 @@
 
 This portfolio presents selected technical work across several years of applied algorithm development, domain AI and scientific computing. It is organized as an English-language, reviewable index of research and engineering experience, with emphasis on data provenance, reproducible evaluation and responsible deployment.
 
-## Featured work for the GenAI for Good Challenge
+## Featured Work in Urban AI and Geospatial Engineering
 
 Start with [urban data reasoning](01_GenAI_Cities_Challenge/Architecture.md), [building extraction](02_Building_Extraction/Methodology.md), [satellite embeddings](03_Global_Geospatial_AI/README.md) and [land-use monitoring](04_Land_Use_Monitoring/README.md) for work most relevant to sustainable cities. The underlying design experience is transferable to proposed staff-facing municipal GIS workflows; no Skopje deployment or municipal partnership is claimed.
 
