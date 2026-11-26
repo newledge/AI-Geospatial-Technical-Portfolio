@@ -6,8 +6,6 @@ This portfolio presents selected technical work across several years of applied 
 
 ## Featured work for the GenAI for Good Challenge
 
-**Cities Edition 2026 (Zindi)** — public leaderboard score **0.922826003**, submission `gB79oiHv`, 26 November 2026; reported public rank **15th** at that time. This is a participant-reported historical public leaderboard result, not a final ranking or an exact-answer accuracy claim. [Competition page](https://zindi.world/competitions/GenAI-for-Good-Challenge).
-
 Start with [urban data reasoning](01_GenAI_Cities_Challenge/Architecture.md), [building extraction](02_Building_Extraction/Methodology.md), [satellite embeddings](03_Global_Geospatial_AI/README.md) and [land-use monitoring](04_Land_Use_Monitoring/README.md) for work most relevant to sustainable cities. The underlying design experience is transferable to proposed staff-facing municipal GIS workflows; no Skopje deployment or municipal partnership is claimed.
 
 ## Project index
